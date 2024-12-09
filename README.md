@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hello 👋
+Its me who tries GitHub.
 
 <!--
 **G0p3JE1w08JuSeR/G0p3JE1w08JuSeR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
